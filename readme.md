@@ -1,5 +1,7 @@
-A basic chat application using React, NodeJS, Express.
+## Toy-Chat-Application
 
-Allow end-user to have personal and group chats as well. Most multimedia format are allowed.
+- A basic chat application using React, NodeJS, Express.
 
-For more info read report-mcs212154.pdf
+- Allow end-user to have personal and group chats as well. Most multimedia format are allowed.
+
+- For more detail read report-mcs212154.pdf
