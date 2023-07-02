@@ -47,6 +47,4 @@ mongoose.connect(mongodbUri, () => {
     server.listen(port, ()=> console.log("Connected to MongoDB..."));
 });
 
-// MONGODB_URI = mongodb+srv://toychat:ssl123@cluster0.mmiaf.mongodb.net/toychat?retryWrites=true&w=majority
-
 
